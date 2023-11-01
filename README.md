@@ -36,7 +36,7 @@ Interested in shaping the future of "Galactic Journey"?
 4. **Collaborate**: Submit a pull request.
 
 ## ©️ License
-This game is open for personal use and adaptation under [LICENSE NAME].
+This game is open for personal use and adaptation under [LICENSE].
 
 *Embark on your Galactic Journey and navigate the stars!*
 
