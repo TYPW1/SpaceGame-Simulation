@@ -8,3 +8,4 @@ class Ship:
 ship = Ship()
 
 (ship.health, ship.position)  # Display the ship's initial health and position
+#test coment
