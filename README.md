@@ -39,5 +39,3 @@ Interested in shaping the future of "Galactic Journey"?
 This game is open for personal use and adaptation under [LICENSE].
 
 *Embark on your Galactic Journey and navigate the stars!*
-
----
